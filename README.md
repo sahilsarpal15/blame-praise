@@ -1,6 +1,6 @@
 # Blame/Praise App
 
-`Disclaimer: It is a waste of time.`
+`Disclaimer: It is a waste of time.`czxc
 
 A silly app that I wrote while sipping a glass of coke. It's nothing really!
 
